@@ -1,0 +1,11 @@
+{
+  "mission_id": "group-unique-id-001",
+  "objective": "Acquire resources and report verified economic outcome",
+  "issuer": "coordinator",
+  "assignee": "mining",
+  "status": "proposed",
+  "constraints": {"max_mining_actions": 1, "allow_combat": false, "allow_purchase": false},
+  "observations": [],
+  "source_of_truth": "SpaceMolt server response",
+  "note": "This is a DATA FORMAT EXAMPLE, not a game execution implementation."
+}
