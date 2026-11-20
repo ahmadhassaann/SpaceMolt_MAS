@@ -1,0 +1,4 @@
+Both pilots' displayed Service Record stats are added together.
+Example command (not real student results):
+python -m scripts.platform_score --earned 2000 --spent 900 --ore 30 --trades 1 --exchange-sales 0 --distance 900 --systems 2
+Output should be 25/25. TA still validates current online profiles and genuine sale.

@@ -1,0 +1,12 @@
+# MCP 2.3.0 and Groq 1.7.0 were directly verified on instructor Windows PC.
+# The exact A2A SDK version used in the successful instructor test was not captured.
+# The compatible A2A v1 API range is therefore constrained, not asserted as exact-pin tested.
+mcp==2.3.0
+groq==1.7.0
+a2a-sdk>=1.0,<2.0
+pydantic>=2.14,<3
+requests>=2.31,<3
+keyring>=24,<27
+uvicorn>=0.30,<1
+starlette>=0.40,<2
+httpx>=0.27,<1

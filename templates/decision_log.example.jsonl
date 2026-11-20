@@ -1,0 +1,2 @@
+{"time_utc":"2026-11-13T10:00:00Z","event":"task.assigned","agent":"coordinator","task_id":"G01-001","data":{"assignee":"mining","goal":"inspect asteroid opportunities"}}
+{"time_utc":"2026-11-13T10:00:10Z","event":"tool.result","agent":"mining","task_id":"G01-001","data":{"tool":"spacemolt/get_system","result":"EXAMPLE ONLY; NOT A VERIFIED LIVE RESPONSE"}}

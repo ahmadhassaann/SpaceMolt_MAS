@@ -1,0 +1,13 @@
+{
+  "group_id": "AI26-G01",
+  "pilot_usernames": ["AI26-G01-A", "AI26-G01-B"],
+  "starting_empire": "nebula",
+  "llm_model_example": "openai/gpt-oss-20b",
+  "mcp_endpoint": "https://game.spacemolt.com/mcp/v2",
+  "http_bootstrap_endpoint": "https://game.spacemolt.com/api/v2",
+  "max_assessed_runtime_seconds": 28800,
+  "max_group_llm_requests": 300,
+  "max_group_input_output_tokens": 250000,
+  "max_llm_requests_per_60_seconds": 2,
+  "safety": {"combat": false, "external_transfers": false, "unsafe_repeat_actions": false}
+}
